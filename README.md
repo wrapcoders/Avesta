@@ -34,5 +34,5 @@ Here is only a small list of available features of in the Avesta:
 
 ## Documentation
 Read the full documentation here: 
-### [Documentation](https://wrapcoders.github.io/avesta/documentation/documentation.html))
+### [Documentation](https://wrapcoders.github.io/avesta/documentation/documentation.html)
 
